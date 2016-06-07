@@ -13,5 +13,6 @@ int main(){
     } 
     s[j]='\0';
     printf("\nThe string without vowel is->%s",s);
+    printf(strrev.(s))
     return 0;
 }
